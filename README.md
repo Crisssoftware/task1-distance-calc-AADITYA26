@@ -54,3 +54,6 @@ Create a ROS2 subscriber that:
 - Upload the Python file(s) implementing the subscriber and publisher.
 - Provide a screenshot displaying the topic output in the terminal.
 
+NAME : AADITYA YOGESH DHANNAWAT
+ID : 2024ADPS0737P
+
